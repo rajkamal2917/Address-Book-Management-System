@@ -151,5 +151,5 @@ Enter your choice:
 
 ## 👨‍💻 Author
 
-**Raj Kamal**
+**RajKamal**
 Electronics and Communication Engineering
